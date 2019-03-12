@@ -1,0 +1,2 @@
+class Foul < Play
+end

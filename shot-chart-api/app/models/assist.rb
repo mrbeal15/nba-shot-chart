@@ -1,0 +1,2 @@
+class Assist < Play
+end
